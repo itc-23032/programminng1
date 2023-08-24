@@ -1,0 +1,10 @@
+0, Hello
+1, See you later
+2, Have a good day
+3, Have a good day
+4, Have a good day
+5, Hi
+6, Good morning
+7, Hi
+8, Good night
+9, Have a good day
